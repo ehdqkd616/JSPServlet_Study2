@@ -1,2 +1,0 @@
-# Gugbi_5_JSPServlet_workspace
-Gugbi_5_JSPServlet_workspace
