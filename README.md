@@ -54,7 +54,8 @@ ___
    - [Filter](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/filter)
    - [Common](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/common)
    
-- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views)
+- [**Views**]
+  - [**index.jsp**](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/3_JSPServlet(PC)/WebContent/index.jsp)
   - [board](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/board)
   - [member](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/member)
   - [notice](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/notice)
