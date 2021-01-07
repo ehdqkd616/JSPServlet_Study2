@@ -73,18 +73,40 @@ ___
 ___
 <br>
 
-#### Webprj 
-- [**Java Srouces**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Webprj/src)
-- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Webprj/WebContent)
-- **설정 파일**
-  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study1/blob/master/Webprj/WebContent/WEB-INF/web.xml)
+#### 4_Ajax
+- [**Java Srouces**]
+  - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/4_Ajax/src/ajax/jquery/controller)
+  - [Model]
+    - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/4_Ajax/src/ajax/jquery/model/vo)
+    
+- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/WebContent)
+  - [**index.jsp**](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/4_Ajax/WebContent/index.jsp)
 
 ___
 <br>
 
-#### Quiz 
-- [**Java Srouces**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/src)
+#### 5_EL_JSTL
+- [**Java Srouces**]
+  - [El]
+    - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/el/controller)
+  
+  - [Summary]
+    - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/summary/controller)
+ 
+  - [Model]
+    - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/model/vo)
+  
 - [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/WebContent)
+  - 01_standard
+    - [01_useBean](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/01_standard/01_useBean)
+    - [02_include](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/01_standard/02_include)
+    - [03_forward](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/01_standard/03_forward)
+    
+  - [02_el](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/02_el)
+  - [03_summary](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/03_summary)
+  - [04_custom](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/04_custom)
 
+- **설정 파일**
+  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/5_EL_JSTL/WebContent/WEB-INF/web.xml)
 ___
 <br>
