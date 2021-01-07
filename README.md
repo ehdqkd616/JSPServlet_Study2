@@ -44,7 +44,7 @@ ___
       - [DAO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/dao)
       - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/vo)  
    
-   - Notice
+  - Notice
     - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/notice/controller)
     - [Model]
       - [Service](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/notice/model/service)
