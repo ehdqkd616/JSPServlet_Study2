@@ -32,21 +32,21 @@ ___
 - **Java Srouces**
   - Board
     - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/controller)
-    - [Model]
+    - Model
       - [Service](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/service)
       - [DAO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/board/model/dao)
       - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/board/model/vo)
     
   - Member
     - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/controller)
-    - [Model]
+    - Model
       - [Service](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/board/model/service)
       - [DAO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/dao)
       - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/vo)  
    
   - Notice
     - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/notice/controller)
-    - [Model]
+    - Model
       - [Service](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/notice/model/service)
       - [DAO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/notice/model/dao)
       - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/notice/model/vo)  
@@ -54,11 +54,12 @@ ___
    - [Filter](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/filter)
    - [Common](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/common)
    
-   
-- **Views**
-  - [views](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/WebContent)
-  - [hr](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/WebContent/hr)
-  - [error](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/WebContent/error)
+- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views)
+  - [board](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/board)
+  - [member](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/member)
+  - [notice](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/notice)
+  - [thumbnail](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/thumbnail)
+  - [common](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/common)
   
 - [**SQL**](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/sql)
 
@@ -66,9 +67,8 @@ ___
   - [driver.properties(오라클 11g)](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/3_JSPServlet(PC)/src/sql/driver.properties)
   - [driver.properties2(오라클 18c)](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/3_JSPServlet(PC)/src/sql/driver2.properties)
   
-  
 - **설정 파일**
-  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study1/blob/master/JDBC/WebContent/WEB-INF/web.xml)
+  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/3_JSPServlet(PC)/WebContent/WEB-INF/web.xml)
 ___
 <br>
 
