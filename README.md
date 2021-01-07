@@ -3,51 +3,46 @@
 
 #### 1_Servlet 
 - **Java Srouces**
-  - [Servlet](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoard/src/lab/board/web)
-  - [Domain](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoard/src/lab/web/domain)
-  - [Filter](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoard/src/lab/board/filter)
+  - [Servlet](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/1_Servlet/src/com/kh/servlet)
 
 - **Views**
-  - [views](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoard/WebContent)
-  - [board](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoard/WebContent/board)
-  - [incl](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoard/WebContent/incl)
-  - [error](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoard/WebContent/error)
+  - [**index.jsp**](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/1_Servlet/WebContent/index.html)
+  - [views](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/2_JSP/WebContent/jsp)
+  - [error](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/2_JSP/WebContent/jsp/error)
   
 - **설정 파일**
-  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study1/blob/master/MVCBoard/WebContent/WEB-INF/web.xml)
+  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/1_Servlet/WebContent/WEB-INF/web.xml)
   
 ___
 <br>
   
-#### MVCBoardDesign (게시판 연습 CSS 적용)
-- **Java Srouces**
-  - [Servlet](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/src/lab/board/web)
-  - [Domain](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/src/lab/web/domain)
-  - [Filter](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/src/lab/board/filter)
-
+#### 2_JSP
 - **Views**
-  - [views](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent)
-  - [board](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/board)
-  - [incl](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/incl)
-  - [error](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/error)
-
-- **Resources**
-  - [css](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/css)
-  - [js](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/js)
-  - [img](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/img)
-  - [fonts](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/fonts)
+  - [**index.jsp**](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/2_JSP/WebContent/index.html)
+  - [views](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/2_JSP/WebContent/jsp)
+  - [error](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/2_JSP/WebContent/jsp/error)
   
 - **설정 파일**
-  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study1/blob/master/MVCBoardDesign/WebContent/WEB-INF/web.xml)
+  - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/2_JSP/WebContent/WEB-INF/web.xml)
 
 ___
 <br>
 
-#### JDBC (JDBC 연습)
+#### 3_JSPServlet
 - **Java Srouces**
-  - [Servlet](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/src/lab/web/servlet)
-  - [Model](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/src/lab/web/model)
-  - [Filter](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/src/lab/web/filter)
+  - [Board]
+    - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/controller)
+    - [Model]
+      - [Service](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/service)
+      - [DAO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/board/model/dao)
+      - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/board/model/vo)
+    
+  - [Member]
+    - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/controller)
+    - [Model]
+      - [Service](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/board/model/service)
+      - [DAO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/dao)
+      - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/member/model/vo)  
 
 - **Views**
   - [views](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/WebContent)
