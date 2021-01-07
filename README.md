@@ -87,13 +87,13 @@ ___
 
 #### 5_EL_JSTL
 - [**Java Srouces**]
-  - [El]
+  - El
     - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/el/controller)
   
-  - [Summary]
+  - Summary
     - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/summary/controller)
  
-  - [Model]
+  - Model
     - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/model/vo)
   
 - [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/WebContent)
