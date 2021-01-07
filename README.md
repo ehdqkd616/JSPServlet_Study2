@@ -74,7 +74,7 @@ ___
 <br>
 
 #### 4_Ajax
-- [**Java Srouces**]
+- **Java Srouces**
   - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/4_Ajax/src/ajax/jquery/controller)
   - [Model]
     - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/4_Ajax/src/ajax/jquery/model/vo)
