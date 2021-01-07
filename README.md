@@ -54,7 +54,7 @@ ___
    - [Filter](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/filter)
    - [Common](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/src/common)
    
-- [**Views**]
+- **Views**
   - [**index.jsp**](https://github.com/ehdqkd616/JSPServlet_Study2/blob/main/3_JSPServlet(PC)/WebContent/index.jsp)
   - [board](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/board)
   - [member](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/3_JSPServlet(PC)/WebContent/WEB-INF/views/member)
@@ -86,7 +86,7 @@ ___
 <br>
 
 #### 5_EL_JSTL
-- [**Java Srouces**]
+- **Java Srouces**
   - El
     - [Controller](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/el/controller)
   
@@ -96,7 +96,7 @@ ___
   - Model
     - [VO](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/src/action/model/vo)
   
-- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/WebContent)
+- **Views**
   - 01_standard
     - [01_useBean](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/01_standard/01_useBean)
     - [02_include](https://github.com/ehdqkd616/JSPServlet_Study2/tree/main/5_EL_JSTL/WebContent/01_standard/02_include)
